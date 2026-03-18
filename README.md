@@ -4,6 +4,8 @@
 <li>I´m currently in my fourth year as a CS student.</li>
 </ul>
 
+<ul></ul>
+
 <ul>
 <li>I like to programm alone and in a team.</li>
 <li>When I´m alone, I like to find my own solutions.</li>
