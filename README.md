@@ -1,7 +1,9 @@
 ## Hi, I´m Bjoern <img width="40px" src="512.gif">
 
--I´m currently in my fourth year as a CS student.
--I know a litte bit of html, css, js, vba and Pascal (Lazarus).
+<ul>
+<li>I´m currently in my fourth year as a CS student.</li>
+<li>I know a litte bit of html, css, js, vba and Pascal (Lazarus).</li>
+</ul>
 
 <ul>
 <li>I like to programm alone and in a team.</li>
