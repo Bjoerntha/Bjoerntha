@@ -1,4 +1,4 @@
-## Hi, I´m Bjoern
+## Hi, I´m Bjoern <img width "40px" src=512.gif>
 
 I´m currently in my fourth year as a CS student.
 I know a litte bit of html, css, js, vba and Pascal (Lazarus).
