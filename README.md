@@ -2,7 +2,7 @@
 
 <ul>
 <li>I´m currently in my fourth year as a CS student.</li>
-<li>I know a litte bit of html, css, js, vba and Pascal (Lazarus).</li>
+<li></li>
 </ul>
 
 <ul>
