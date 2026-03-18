@@ -2,7 +2,6 @@
 
 <ul>
 <li>I´m currently in my fourth year as a CS student.</li>
-<li></li>
 </ul>
 
 <ul>
